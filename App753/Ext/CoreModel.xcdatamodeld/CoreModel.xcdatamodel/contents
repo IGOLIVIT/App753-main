@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="StatModel" representedClassName="StatModel" syncable="YES" codeGenerationType="class">
+        <attribute name="stDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="stJumps" optional="YES" attributeType="String"/>
+        <attribute name="stName" optional="YES" attributeType="String"/>
+        <attribute name="stSec" optional="YES" attributeType="String"/>
+        <attribute name="stSpins" optional="YES" attributeType="String"/>
+        <attribute name="stTime" optional="YES" attributeType="String"/>
+        <attribute name="stType" optional="YES" attributeType="String"/>
+    </entity>
+</model>
